@@ -33,5 +33,7 @@ Contact
 For any questions or inquiries, please contact:
 
 Name: Gaurav Jain
+
 Email: jaingaurav906@gmail.com
+
 GitHub: https://github.com/gauravjain03
